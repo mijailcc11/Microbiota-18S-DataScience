@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+## 📊 Main Results
+
+- Significant differences were observed in community composition across sample types.
+- Genera such as *Cryptosporidium* and *Giardia* were detected in some human samples.
+- Rarefaction curves indicated good sequencing coverage.
+
+Each step is documented in the corresponding notebook inside the `/notebooks` directory.
+
+---
+
+## 🔁 Reproducibility
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Microbiota-18S-DataScience.git
+   cd Microbiota-18S-DataScience
+
