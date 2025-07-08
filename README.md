@@ -33,12 +33,20 @@ This repository contains Jupyter notebooks, processed data, and scripts used to 
 
 ## 📁 Repository Structure
 Microbiota-18S-DataScience/
+
 ├── notebooks/ # Jupyter notebooks organized by analysis step
+
 ├── data/
+
 │ ├── raw/ # Raw data (not included due to privacy)
+
 │ └── processed/ # Abundance tables, taxonomy and diversity data
+
 ├── scripts/ # Auxiliary functions (if any)
+
 ├── figures/ # Generated visualizations
+
 ├── README.md # This file
+
 └── LICENSE # MIT License
 
